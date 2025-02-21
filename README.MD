@@ -6,6 +6,6 @@ This project uses gradle to build
 `gradlew :build`
 
 ## Testing
-This project uses main for tests.
-
+This project uses junit for tests.
+`gradlew :test`
 Some code is commented out to show where exceptions will be thrown.
